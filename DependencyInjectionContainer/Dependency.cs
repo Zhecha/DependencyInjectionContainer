@@ -12,6 +12,7 @@ namespace DependencyInjectionContainer
         public Type _realiz;
         public bool _singleton;
         public object Getinstance { get; set; }
+        public bool isCreated { get; private set; }
 
         public Dependency(Type Interface, Type Realiz, bool Singleton = false)
         {
@@ -22,6 +23,7 @@ namespace DependencyInjectionContainer
                 _realiz = Realiz;
                 _singleton = Singleton;
                 Getinstance = null;
+                isCreated = true;
             }
         }
     }
