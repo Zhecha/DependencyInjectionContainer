@@ -1,0 +1,7 @@
+D:\Учеба\лабы\5 сем\СПП\5 лаба\DependencyInjectionContainer\DependencyInjectionContainer\bin\Debug\DependencyInjectionContainer.exe.config
+D:\Учеба\лабы\5 сем\СПП\5 лаба\DependencyInjectionContainer\DependencyInjectionContainer\bin\Debug\DependencyInjectionContainer.exe
+D:\Учеба\лабы\5 сем\СПП\5 лаба\DependencyInjectionContainer\DependencyInjectionContainer\bin\Debug\DependencyInjectionContainer.pdb
+D:\Учеба\лабы\5 сем\СПП\5 лаба\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.csprojAssemblyReference.cache
+D:\Учеба\лабы\5 сем\СПП\5 лаба\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.csproj.CoreCompileInputs.cache
+D:\Учеба\лабы\5 сем\СПП\5 лаба\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.exe
+D:\Учеба\лабы\5 сем\СПП\5 лаба\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.pdb
